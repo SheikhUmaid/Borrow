@@ -31,17 +31,14 @@ Here are some sample screenshots from Borrow App Lite:
 
 ## 🏗️ Tech Stack
 
-- Flutter / React Native (Frontend)
-- Firebase / Django (Backend)
-- SQLite / Cloud Firestore (Database)
+- Flutter (Frontend)
+- Django (Backend)
+- Postgres (Database)
 
 ---
 
 ## 💡 How to Install
 
-1. Clone this repository:
+1. ```bash
 
-   ```bash
-   git clone https://github.com/yourusername/borrow-app-lite.git
-   cd borrow-app-lite
    ```
