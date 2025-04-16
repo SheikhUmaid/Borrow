@@ -42,6 +42,16 @@ Here are some sample screenshots from Borrow App Lite:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/borrow-app-lite.git
-   cd borrow-app-lite
+      git clone https://github.com/SheikhUmaid/Borrow.git
+      cd borrow
+      flutter pub get
    ```
+2. Run app in debug mode
+
+   ```bash
+      cd Backend/borrow
+      pip install -r requirements
+      python3 manage.py runsever 0.0.0.0:8000
+   ```
+3. Test the App
+   
