@@ -39,16 +39,14 @@ Here are some sample screenshots from Borrow App Lite:
 
 ## 💡 How to Install
 
-1. ```bash
+1. Clone the REPO
 
-<<<<<<< HEAD
-=======
-   ```bash
+```bash
       git clone https://github.com/SheikhUmaid/Borrow.git
       cd borrow
       flutter pub get
->>>>>>> b980e1806ada223c4d42b9c1dc5cdb3100e851f2
-   ```
+```
+
 2. Run app in debug mode
 
    ```bash
@@ -57,4 +55,3 @@ Here are some sample screenshots from Borrow App Lite:
       python3 manage.py runsever 0.0.0.0:8000
    ```
 3. Test the App
-   
